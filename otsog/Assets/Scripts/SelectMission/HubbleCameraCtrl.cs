@@ -88,7 +88,7 @@ public class HubbleCameraCtrl : MonoBehaviour {
 	                camera.fieldOfView += deltaMagnitudeDiff * perspectiveZoomSpeed;
 
 	                // Clamp the field of view to make sure it's between 10 and 60.
-	                camera.fieldOfView = Mathf.Clamp(camera.fieldOfView, 29.9f, 59.9f);
+	                camera.fieldOfView = Mathf.Clamp(camera.fieldOfView, 9.9f, 29.9f);
 	            }
 	        }
     	}

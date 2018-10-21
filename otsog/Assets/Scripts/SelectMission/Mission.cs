@@ -9,6 +9,8 @@ public class Mission : MonoBehaviour {
 	public String title;
 	public String description;
 	public int scene = 3;
-	public int gameType;
+	public int gameType = 1;
 	public int missionNumber;
+	public bool completed = false;
+	public float score = 0;
 }
