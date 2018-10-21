@@ -10,5 +10,5 @@ public class Mission : MonoBehaviour {
 	public String description;
 	public int scene = 3;
 	public int gameType;
-	public missionNumber;
+	public int missionNumber;
 }
