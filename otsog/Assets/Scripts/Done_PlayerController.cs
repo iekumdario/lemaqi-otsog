@@ -29,7 +29,7 @@ public class Done_PlayerController : MonoBehaviour
         {
             if (Input.touchSupported && Input.touchCount == 1)
             {
-                Vector3 shotDirection = new Vector3(Input.touches[0].position.x, Input.touches[0].position.y, 0.0f);
+                Vector3 shotDirection = new Vector3(240 - Input.touches[0].position.y, 0.0f, Input.touches[0].position.x);
                 Shoot(shotDirection);
             }
             else if (Input.GetMouseButton(0))
