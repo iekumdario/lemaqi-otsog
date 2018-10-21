@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class Done_GameController : MonoBehaviour
 {
     public GameObject[] hazards;
+    public Material[] levelBackgrounds;
     public Vector3 spawnValues;
     public int hazardCount;
     public float spawnWait;
@@ -32,14 +33,21 @@ public class Done_GameController : MonoBehaviour
         StartCoroutine(SpawnWaves());
 
         // Load mission Object.
-        GameObject missionManager = GameObject.FindGameObjectWithTag("MissionManager");
-        Mission mission = missionManager.GetComponent<MissionManager>().mission;
-        GameObject[] backgrounds = GameObject.FindGameObjectsWithTag("LevelBackground");
-        foreach (var bg in backgrounds)
+        try
         {
-            Material backgroundMat = Resources.Load("background_"+mission.missionNumber, typeof(Material)) as Material;
-            bg.GetComponent<MeshRenderer>().materials[0] = backgroundMat;
+            GameObject missionManager = GameObject.FindGameObjectWithTag("MissionManager");
+            Mission mission = missionManager.GetComponent<MissionManager>().mission;
+            GameObject[] backgrounds = GameObject.FindGameObjectsWithTag("LevelBackground");
+            foreach (var bg in backgrounds)
+            {
+                bg.GetComponent<MeshRenderer>().materials[0] = levelBackgrounds[mission.missionNumber - 1];
+            }
         }
+        catch (System.Exception)
+        {
+            //load with default background
+        }
+        
     }
 
     void Update()
