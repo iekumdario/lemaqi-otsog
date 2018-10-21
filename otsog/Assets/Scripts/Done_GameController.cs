@@ -30,7 +30,7 @@ public class Done_GameController : MonoBehaviour
         UpdateScore();
         StartCoroutine(SpawnWaves());
 
-        // Load mission Obect.
+        // Load mission Object.
         //GameObject missionManager = GameObject.FindGameObjectWithTag("MissionManager");
         //Mission mission = missionManager.GetComponent<MissionManager>().mission;
     }
