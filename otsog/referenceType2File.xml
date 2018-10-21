@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5b914d7e6b83f104da8b2a1c6bd64e3f</guid>
+    <fileName>Assets/Lobby/Scripts/DraggablePanel.cs</fileName>
+    <timeStamp>2018-07-16T07:36:03-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.DraggablePanel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9c0578910bbe00d43919a92c7b9893fe</guid>
+    <fileName>Assets/Lobby/Scripts/EventSystemChecker.cs</fileName>
+    <timeStamp>2018-07-16T07:36:34-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.EventSystemChecker</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ccb58ed657934fa4dacaa6afdf48bffc</guid>
+    <fileName>Assets/Lobby/Scripts/Lobby/LobbyCountdownPanel.cs</fileName>
+    <timeStamp>2018-07-16T07:36:51-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.LobbyCountdownPanel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ebe69bfcd108be84ca06a5e23d9c8516</guid>
+    <fileName>Assets/Lobby/Scripts/Lobby/LobbyHook.cs</fileName>
+    <timeStamp>2018-07-16T07:36:58-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.LobbyHook</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d17c9f1a79cf43479d9ac49a7e77a12</guid>
+    <fileName>Assets/Lobby/Scripts/Lobby/LobbyInfoPanel.cs</fileName>
+    <timeStamp>2018-07-16T07:35:45-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.LobbyInfoPanel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a0312403f252434c912587ebde8fb96</guid>
+    <fileName>Assets/Lobby/Scripts/Lobby/LobbyMainMenu.cs</fileName>
+    <timeStamp>2018-07-16T07:36:31-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.LobbyMainMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>38de513803c5e60498ad31fbc327b120</guid>
+    <fileName>Assets/Lobby/Scripts/Lobby/LobbyManager.cs</fileName>
+    <timeStamp>2018-07-16T07:35:54-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.LobbyManager</string>
+      <string>Prototype.NetworkLobby.LobbyManager+BackButtonDelegate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>811523f8e578d6f4abb259f1fbaa5e0c</guid>
+    <fileName>Assets/Lobby/Scripts/Lobby/LobbyPlayer.cs</fileName>
+    <timeStamp>2018-07-16T07:36:20-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.LobbyPlayer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d5156c0b327b8dd45a725d337f49b61c</guid>
+    <fileName>Assets/Lobby/Scripts/Lobby/LobbyPlayerList.cs</fileName>
+    <timeStamp>2018-07-16T07:36:52-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.LobbyPlayerList</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>abd4c2a2c71a1214da4f39391c1a8122</guid>
+    <fileName>Assets/Lobby/Scripts/Lobby/LobbyServerEntry.cs</fileName>
+    <timeStamp>2018-07-16T07:36:41-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.LobbyServerEntry</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2fc8e7df4caaef14e97fb5dbb4825c5a</guid>
+    <fileName>Assets/Lobby/Scripts/Lobby/LobbyServerList.cs</fileName>
+    <timeStamp>2018-07-16T07:35:51-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.LobbyServerList</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>763992d85d3f6d4428454c2a968ce084</guid>
+    <fileName>Assets/Lobby/Scripts/Lobby/LobbyTopPanel.cs</fileName>
+    <timeStamp>2018-07-16T07:36:14-05:00</timeStamp>
+    <typeFullName>
+      <string>Prototype.NetworkLobby.LobbyTopPanel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>34c20de9ecc8bde41b5ed3a66a8071a3</guid>
+    <fileName>Assets/Planet Earth Free/SpinFree.cs</fileName>
+    <timeStamp>2018-10-20T12:47:05.6825441-05:00</timeStamp>
+    <typeFullName>
+      <string>SpinFree</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a93f5f1b9a1c81a4db522bb57fc9b735</guid>
+    <fileName>Assets/SampleScenes/Scripts/NetworkAsteroid.cs</fileName>
+    <timeStamp>2018-07-16T07:36:39-05:00</timeStamp>
+    <typeFullName>
+      <string>NetworkAsteroid</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f44102d9118da0f42a51a6a3dcbc8256</guid>
+    <fileName>Assets/SampleScenes/Scripts/NetworkGameManager.cs</fileName>
+    <timeStamp>2018-07-16T07:37:03-05:00</timeStamp>
+    <typeFullName>
+      <string>NetworkGameManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5d15f2051d09644ebccdef0f54b7bbb</guid>
+    <fileName>Assets/SampleScenes/Scripts/NetworkLobbyHook.cs</fileName>
+    <timeStamp>2018-07-16T07:36:37-05:00</timeStamp>
+    <typeFullName>
+      <string>NetworkLobbyHook</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f363b4fb09c0e79449c971b8b68b5a5c</guid>
+    <fileName>Assets/SampleScenes/Scripts/NetworkSpaceship.cs</fileName>
+    <timeStamp>2018-07-16T07:37:01-05:00</timeStamp>
+    <typeFullName>
+      <string>NetworkSpaceship</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e479ee01be8c5f1449c23a56feeb38d8</guid>
+    <fileName>Assets/SampleScenes/Scripts/NetworkSpaceshipBullet.cs</fileName>
+    <timeStamp>2018-07-16T07:36:55-05:00</timeStamp>
+    <typeFullName>
+      <string>NetworkSpaceshipBullet</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>896a80a12982bac4191e0b297993cb11</guid>
+    <fileName>Assets/Scripts/DamageByColission.cs</fileName>
+    <timeStamp>2018-10-20T18:00:09.6579325-05:00</timeStamp>
+    <typeFullName>
+      <string>DamageByColission</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>814f6a7e3ec8a40aaa3a2057e2695924</guid>
+    <fileName>Assets/Scripts/Done_BGScroller.cs</fileName>
+    <timeStamp>2018-10-20T17:22:55.3955591-05:00</timeStamp>
+    <typeFullName>
+      <string>Done_BGScroller</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c3b21e3bfd0fc495183d37d340826489</guid>
+    <fileName>Assets/Scripts/Done_DestroyByBoundary.cs</fileName>
+    <timeStamp>2018-10-20T17:49:23.3428524-05:00</timeStamp>
+    <typeFullName>
+      <string>Done_DestroyByBoundary</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8846417901f4942d2a5fa9e32ce69d45</guid>
+    <fileName>Assets/Scripts/Done_DestroyByContact.cs</fileName>
+    <timeStamp>2018-10-20T17:51:54.0720535-05:00</timeStamp>
+    <typeFullName>
+      <string>Done_DestroyByContact</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3069907128af34efca9780c9aea75eb0</guid>
+    <fileName>Assets/Scripts/Done_DestroyByTime.cs</fileName>
+    <timeStamp>2018-10-20T16:34:23.1510978-05:00</timeStamp>
+    <typeFullName>
+      <string>Done_DestroyByTime</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef73dad58880c4027a74be9c91fb039e</guid>
+    <fileName>Assets/Scripts/Done_EvasiveManeuver.cs</fileName>
+    <timeStamp>2018-10-20T16:34:23.1540915-05:00</timeStamp>
+    <typeFullName>
+      <string>Done_EvasiveManeuver</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b086cdeff9ad5466ea2bbaf3aab66458</guid>
+    <fileName>Assets/Scripts/Done_GameController.cs</fileName>
+    <timeStamp>2018-10-20T16:34:23.1570822-05:00</timeStamp>
+    <typeFullName>
+      <string>Done_GameController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7f7850f24249e4056b2189de03ae584c</guid>
+    <fileName>Assets/Scripts/Done_Mover.cs</fileName>
+    <timeStamp>2018-10-20T16:34:23.1590764-05:00</timeStamp>
+    <typeFullName>
+      <string>Done_Mover</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>054c19cd9824a4257a98a59874c988f3</guid>
+    <fileName>Assets/Scripts/Done_PlayerController.cs</fileName>
+    <timeStamp>2018-10-20T16:34:23.1610719-05:00</timeStamp>
+    <typeFullName>
+      <string>Done_Boundary</string>
+      <string>Done_PlayerController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c19560e3c6a341e48361ef8c42b3609</guid>
+    <fileName>Assets/Scripts/Done_RandomRotator.cs</fileName>
+    <timeStamp>2018-10-20T16:34:23.1630666-05:00</timeStamp>
+    <typeFullName>
+      <string>Done_RandomRotator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>365dd2da98dd9431b8c5d7406c200eeb</guid>
+    <fileName>Assets/Scripts/Done_WeaponController.cs</fileName>
+    <timeStamp>2018-10-20T16:34:23.1650608-05:00</timeStamp>
+    <typeFullName>
+      <string>Done_WeaponController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7eaa5d85661834b179bfdadb76c20047</guid>
+    <fileName>Assets/Scripts/EarthRotationScript.cs</fileName>
+    <timeStamp>2018-10-20T15:38:57.596997-05:00</timeStamp>
+    <typeFullName>
+      <string>EarthRotationScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>272ec2f9cf8c24d1c8b6457a92d88bd1</guid>
+    <fileName>Assets/Scripts/HubbleCameraCtrl.cs</fileName>
+    <timeStamp>2018-10-20T15:38:57.603977-05:00</timeStamp>
+    <typeFullName>
+      <string>HubbleCameraCtrl</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a3294614994ea141948bb5e90d7c30c</guid>
+    <fileName>Assets/Scripts/TurretController.cs</fileName>
+    <timeStamp>2018-10-20T19:09:31.1809692-05:00</timeStamp>
+    <typeFullName>
+      <string>TurretController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/TutorialInfo/Scripts/Readme.cs</fileName>
+    <timeStamp>2018-07-16T07:37:05-05:00</timeStamp>
+    <typeFullName>
+      <string>Readme</string>
+      <string>Readme+Section</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2018-07-16T07:35:57-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
