@@ -11,6 +11,7 @@ public class Done_GameController : MonoBehaviour
     public float spawnWait;
     public float startWait;
     public float waveWait;
+    public int waveCount;
 
     public Text scoreText;
     public Text restartText;
@@ -30,7 +31,7 @@ public class Done_GameController : MonoBehaviour
         UpdateScore();
         StartCoroutine(SpawnWaves());
 
-        // Load mission Obect.
+        // Load mission Object.
         //GameObject missionManager = GameObject.FindGameObjectWithTag("MissionManager");
         //Mission mission = missionManager.GetComponent<MissionManager>().mission;
     }
@@ -83,7 +84,7 @@ public class Done_GameController : MonoBehaviour
 
     public void GameOver()
     {
-        gameOverText.text = "Game Over!";
+        gameOverText.text = "Mission Failed!";
         gameOver = true;
     }
 }

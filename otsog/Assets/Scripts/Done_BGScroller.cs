@@ -13,9 +13,9 @@ public class Done_BGScroller : MonoBehaviour
 		startPosition = transform.position;
 	}
 
-	//void Update ()
-	//{
-	//	float newPosition = Mathf.Repeat(Time.time * scrollSpeed, tileSizeZ);
-	//	transform.position = startPosition + Vector3.forward * newPosition;
-	//}
+    void Update()
+    {
+        float newPosition = Mathf.Repeat(Time.time * scrollSpeed, tileSizeZ);
+        transform.position = startPosition + Vector3.forward * newPosition;
+    }
 }
