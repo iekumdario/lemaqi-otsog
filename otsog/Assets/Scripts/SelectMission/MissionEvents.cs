@@ -8,8 +8,9 @@ public class MissionEvents : MonoBehaviour {
 
 	public void loadByIndex(GameObject missionObject) {
 		MissionManager missionManager = missionObject.GetComponent<MissionManager>();
-		DontDestroyOnLoad(missionObject);
-		SceneManager.LoadScene(missionManager.mission.scene);
+		DontDestroyOnLoad(missionManager);
+        DontDestroyOnLoad(missionManager.mission);
+        SceneManager.LoadScene(missionManager.mission.scene);
 	}
 
 	public void closeCanvas(Canvas canvas) {

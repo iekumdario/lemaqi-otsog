@@ -40,7 +40,7 @@ public class Done_GameController : MonoBehaviour
             GameObject[] backgrounds = GameObject.FindGameObjectsWithTag("LevelBackground");
             foreach (var bg in backgrounds)
             {
-                bg.GetComponent<MeshRenderer>().materials[0] = levelBackgrounds[mission.missionNumber - 1];
+                bg.GetComponent<MeshRenderer>().material = levelBackgrounds[mission.missionNumber - 1];
             }
         }
         catch (System.Exception)
