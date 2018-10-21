@@ -11,6 +11,7 @@ public class Done_GameController : MonoBehaviour
     public float spawnWait;
     public float startWait;
     public float waveWait;
+    public int waveCount;
 
     public Text scoreText;
     public Text restartText;
@@ -83,7 +84,7 @@ public class Done_GameController : MonoBehaviour
 
     public void GameOver()
     {
-        gameOverText.text = "Game Over!";
+        gameOverText.text = "Mission Failed!";
         gameOver = true;
     }
 }

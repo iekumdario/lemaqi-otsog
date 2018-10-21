@@ -34,8 +34,8 @@ public class Done_PlayerController : MonoBehaviour
             }
             else if (Input.GetMouseButton(0))
             {
-                Debug.Log(Input.mousePosition);
-                Vector3 shotDirection = new Vector3(-Input.mousePosition.y,  0.0f, Input.mousePosition.x);
+                //Debug.Log(Input.mousePosition);
+                Vector3 shotDirection = new Vector3(240-Input.mousePosition.y,  0.0f, Input.mousePosition.x);
                 Debug.Log(shotDirection);
                 Shoot(shotDirection);
             }
