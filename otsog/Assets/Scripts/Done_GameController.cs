@@ -32,8 +32,14 @@ public class Done_GameController : MonoBehaviour
         StartCoroutine(SpawnWaves());
 
         // Load mission Object.
-        //GameObject missionManager = GameObject.FindGameObjectWithTag("MissionManager");
-        //Mission mission = missionManager.GetComponent<MissionManager>().mission;
+        GameObject missionManager = GameObject.FindGameObjectWithTag("MissionManager");
+        Mission mission = missionManager.GetComponent<MissionManager>().mission;
+        GameObject[] backgrounds = GameObject.FindGameObjectsWithTag("LevelBackground");
+        foreach (var bg in backgrounds)
+        {
+            Material backgroundMat = Resources.Load("background_"+mission.missionNumber, typeof(Material)) as Material;
+            bg.GetComponent<MeshRenderer>().materials[0] = backgroundMat;
+        }
     }
 
     void Update()
